@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kryll13
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning AI with Python
 
 
 <!---
